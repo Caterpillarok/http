@@ -1,0 +1,5 @@
+# compiled binaries (output of gcc server.c/client.c in each folder)
+tcp/*/server
+tcp/*/client
+udp/*/server
+udp/*/client
